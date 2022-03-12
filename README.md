@@ -5,3 +5,5 @@
 3- git status #ver estado archivos
 4- git reset #regresar-> resetear
 5- git commit -m "mensaje" #Enviar commit
+6- git checkaut -- .
+7- git log
