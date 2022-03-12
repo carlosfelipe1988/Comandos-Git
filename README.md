@@ -14,3 +14,4 @@
 12. - git merge `name-branch` ==========> Fusionar ramas
 13. - git branch -d `name-branch` ======> Elimina la rama
 14. - git push =========================> Despues de autenticarme
+15. - git commit -am ===================> Dos comando en uno "git add . + git commit -m 'mensaje'"
