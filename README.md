@@ -8,3 +8,4 @@
 6- git checkaut -- . #Reconstruir como el último commit
 7- git log #Historial de mis commit
 8- git commit --amend #arreglar el último commit
+9- git checkout -b "name-branch"
